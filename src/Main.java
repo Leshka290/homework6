@@ -87,5 +87,4 @@ public class Main {
             System.out.println(2 + " * "+ i + " = " + i * 2);
         }
     }
-
 }
